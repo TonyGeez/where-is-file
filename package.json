@@ -2,6 +2,9 @@
   "name": "where-is-file",
   "version": "1.3.0",
   "description": "Locate files and dir faster",
+  "bin": {
+    "wi": "./index.js"
+  },
   "keywords": [
     "whereis",
     "file",
