@@ -1,0 +1,32 @@
+{
+  "name": "where-is-file",
+  "version": "1.2.9",
+  "description": "Locate files and dir faster",
+  "keywords": [
+    "whereis",
+    "file",
+    "finder",
+    "locate",
+    "locate",
+    "file",
+    "file",
+    "finder",
+    "dir",
+    "finder"
+  ],
+  "homepage": "https://github.com/TonyGeez/where-is-file#readme",
+  "bugs": {
+    "url": "https://github.com/TonyGeez/where-is-file/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyGeez/where-is-file.git"
+  },
+  "license": "MIT",
+  "author": "TonyGeez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
