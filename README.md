@@ -1,6 +1,10 @@
 # Where-Is 
 
 A fast command-line tool for locating files and directories.
+<img width="714" height="490" src="https://github.com/user-attachments/assets/b0447ab0-d20f-4e81-b375-ce100ed7601e" />
+
+<img width="714" height="449" src="https://github.com/user-attachments/assets/75d29d10-de63-4d2a-b89d-d2b9552920f6" />
+
 
 ## Installation
 
